@@ -12,18 +12,18 @@ https://sourceforge.net/projects/mingw-w64/\
 
 Change Architecture to x86_64
 
-![1](\figure\2.png) 
+![1](https://github.com/kaichieh0524/self-leaningClanguage/blob/master/20200418%20vs%20code%20environment%20setup/figure/2.PNG) 
 ---
    
 ## Download Pre-Built-Binaries LLVM (Only Windows-64bits) 
 https://releases.llvm.org/download.html\
-![1](\figure\3.png)
+![1](https://github.com/kaichieh0524/self-leaningClanguage/blob/master/20200418%20vs%20code%20environment%20setup/figure/3.PNG)
 
-![1](\figure\4.png)
+![1](https://github.com/kaichieh0524/self-leaningClanguage/blob/master/20200418%20vs%20code%20environment%20setup/figure/4.PNG)
 
 ## Copy the all files in mingw-w64 to LLVM
 
-![1](\figure\5.png)
+![1](https://github.com/kaichieh0524/self-leaningClanguage/blob/master/20200418%20vs%20code%20environment%20setup/figure/5.PNG)
 
 
 ## Install VSCode extension 
