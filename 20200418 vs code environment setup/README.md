@@ -4,7 +4,7 @@
 https://visualstudio.microsoft.com/zh-hant/?rr=https%3A%2F%2Fwww.google.com%2F
 
 
-![1](\figure\1.png) 
+![1](https://github.com/kaichieh0524/self-leaningClanguage/blob/master/20200418%20vs%20code%20environment%20setup/figure/1.png)
 
 ---
 ## Download MMinGW-w64
