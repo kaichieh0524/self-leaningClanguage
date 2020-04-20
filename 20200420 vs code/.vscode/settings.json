@@ -26,6 +26,9 @@
     ],
     "clang.completion.enable": true,
     "files.associations": {
-      "Hello World.C": "cpp"
+      "Hello World.C": "cpp",
+      "stdbool.h": "c",
+      "cstdbool": "c",
+      "c++config.h": "c"
     }
   }
