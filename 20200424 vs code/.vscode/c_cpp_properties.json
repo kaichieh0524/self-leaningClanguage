@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "E:/LLVM/bin/gcc",
+            "includePath": [
+                "E:/GmSSL/GmSSL-master/include/**",
+                "E:/GmSSL/GmSSL-master/crypto/sm9/**",
+                "${workspaceFolder}"
+            ],
+            "defines": [],
+            "browse": {
+                "path": [
+                    "E:/GmSSL/GmSSL-master/include/**",
+                    "E:/GmSSL/GmSSL-master/crypto/sm9/**",
+                    "${workspaceFolder}"
+                    
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
