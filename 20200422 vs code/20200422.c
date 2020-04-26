@@ -1,5 +1,5 @@
 # include <stdio.h>
-
+# include <stdlib.h>
 int main(){
     int integer1;
     int integer2;
@@ -14,6 +14,7 @@ int main(){
 
     sum = integer1 + integer2;
     printf("Sum is %d.\n", sum);
+    system ("pause");
 
     /*  
 

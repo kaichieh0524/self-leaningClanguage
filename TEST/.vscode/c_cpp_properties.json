@@ -3,9 +3,9 @@
         {
             "name": "MinGW",
             "intelliSenseMode": "gcc-x64",
-            "compilerPath": "E:/LLVM/bin/gcc",
+            "compilerPath": "E:/LLVM/bin/gcc.exe",
             "includePath": [
-                "C:/Users/ak850/Desktop/**",
+                "E:\\GmSSL\\GmSSL-master\\include",
                 "${workspaceFolder}/**"
             ],
             "defines": [],
