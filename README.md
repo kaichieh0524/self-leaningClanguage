@@ -6,4 +6,5 @@ self-leanring C language from 20200418
 20200422 addition calculator (easy exercise)\
 20200424 switch\
 20200425 rand, srand\
-20200426 array
+20200426 array, &\
+20200430 bulid miracl lib 
