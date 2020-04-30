@@ -16,15 +16,15 @@ https://github.com/miracl/MIRACL
      Build 專案產生lib檔案 (maybe會報錯 但先不處理)
 
 ![](figure/1.png)
-
+---
 ![](figure/2.png)
-
+---
 ![](figure/3.png)
-
+---
 ![](figure/4.png)
-
+---
 ![](figure/5.png)
-     
+---  
      
 # 3 開啟visual studio 並建立新的console專案並測試
     標頭檔->加入->現有項目->miracl.h, mirdef.h
@@ -42,10 +42,10 @@ https://github.com/miracl/MIRACL
 
 
 ![](figure/6.png)
-
+---
 ![](figure/7.png)
-
+---
 ![](figure/8.png)
-
+---
 ![](figure/9.png)
 
