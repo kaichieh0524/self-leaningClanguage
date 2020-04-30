@@ -7,4 +7,4 @@ self-leanring C language from 20200418
 20200424 switch\
 20200425 rand, srand\
 20200426 array, &\
-20200430 bulid miracl lib 
+20200430 Bulid miracl lib and openssl lib
