@@ -11,8 +11,10 @@ d. visual studio: https://visualstudio.microsoft.com/zh-hant/?rr=https%3A%2F%2Fw
         perl --version
         nasm --version
         nmake /?
+
 新建一個新資料夾(暫時存放編譯過程中間資料和編譯檔)，空資料夾創建結構如圖(以cmd "tree" 表示)
 (p.s. 這裡不知道為啥我電腦cmd tree畫出來擋到資料夾名稱)
+
 ![](figures/1.png)
 ---
 ![](figures/2.png)
