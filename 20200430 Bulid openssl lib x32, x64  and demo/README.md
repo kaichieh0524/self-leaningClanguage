@@ -1,9 +1,12 @@
 ## 建置Openssl 動/靜態函式庫 並實現函式調用
 ---
 # 1. 下載 strawberry-perl-5.30.2.1-64bit, nasm installer-64.exe, openssl 和 visual studio
-a. strawberry-perl: http://strawberryperl.com/\
-b. nasm installer-64: https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/win64/ (下載安裝完，把NASM資料夾加入環境變數)\
+a. strawberry-perl: http://strawberryperl.com/
+
+b. nasm installer-64: https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/win64/ (下載安裝完，把NASM資料夾加入環境變數)
+
 c. openssl: https://github.com/openssl/openssl\ (下載完解壓縮)
+
 d. visual studio: https://visualstudio.microsoft.com/zh-hant/?rr=https%3A%2F%2Fwww.google.com%2F
 # 2. 打開 x64 Native Tools Command Prompt for VS 2019
         cd 到所下載 openssl-master 目錄
