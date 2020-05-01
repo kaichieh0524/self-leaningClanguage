@@ -1,0 +1,5 @@
+﻿  OpensslExample.cpp
+libcrypto.lib(libcrypto-lib-cryptlib.obj) : warning LNK4099: 找不到 PDB 'ossl_static.pdb' (有 'libcrypto.lib(libcrypto-lib-cryptlib.obj)' 或位於 'E:\OneDrive\C test project\OpensslExample\x64\Debug\ossl_static.pdb')，當做沒有偵錯資訊，連結物件
+libcrypto.lib(libcrypto-lib-ctype.obj) : warning LNK4099: 找不到 PDB 'ossl_static.pdb' (有 'libcrypto.lib(libcrypto-lib-ctype.obj)' 或位於 'E:\OneDrive\C test project\OpensslExample\x64\Debug\ossl_static.pdb')，當做沒有偵錯資訊，連結物件
+libcrypto.lib(libcrypto-lib-sha256.obj) : warning LNK4099: 找不到 PDB 'ossl_static.pdb' (有 'libcrypto.lib(libcrypto-lib-sha256.obj)' 或位於 'E:\OneDrive\C test project\OpensslExample\x64\Debug\ossl_static.pdb')，當做沒有偵錯資訊，連結物件
+  OpensslExample.vcxproj -> E:\OneDrive\C test project\OpensslExample\x64\Debug\OpensslExample.exe
