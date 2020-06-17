@@ -9,7 +9,7 @@
 
 // Runtime: 0 ms, faster than 100.00% of C online submissions for Valid Parentheses.
 // Memory Usage: 5.5 MB, less than 11.74% of C online submissions for Valid Parentheses.
-
+// main idea : using link list last in first out
 
 typedef struct linklist {
     char val;
