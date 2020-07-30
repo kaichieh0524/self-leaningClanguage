@@ -1,4 +1,4 @@
-// Running Sum of 1d Array (medium)
+// Running Sum of 1d Array (easy)
 // Runtime: 12 ms, faster than 26.89% of C online submissions for Running Sum of 1d Array.
 // Memory Usage: 6.3 MB, less than 100.00% of C online submissions for Running Sum of 1d Array.
 
