@@ -1,1 +1,5 @@
-self-leanring C language from 20200418
+## self-leanring C language
+
+* Leetcode challenge
+
+* opaque object practice
